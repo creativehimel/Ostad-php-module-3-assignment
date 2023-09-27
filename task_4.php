@@ -2,7 +2,7 @@
 $studentGrades = [
     ["Math"=> 88, "English"=>75, "Science"=>95],
     ["Math"=> 65, "English"=>98, "Science"=>71],
-    ["Math"=> 80, "English"=>60, "Science"=>84]
+    ["Math"=> 80, "English"=>60, "Science"=>63]
 ];
 function getAverage($studentGrades){
 
